@@ -65,7 +65,7 @@ function choropleth_udpate_existing_fields() {
 }
 
 /**
- * Add cholorpleth columns to existing recline field storage.
+ * Add choropleth columns to existing recline field storage.
  */
 function choropleth_update_7001(&$sandbox) {
   $ret = array();
@@ -74,7 +74,7 @@ function choropleth_update_7001(&$sandbox) {
 }
 
 /**
- * Add cholorpleth color scale column to existing recline field storage.
+ * Add choropleth color scale column to existing recline field storage.
  */
 function choropleth_update_7002(&$sandbox) {
   $ret = array();

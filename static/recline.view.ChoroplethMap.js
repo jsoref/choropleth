@@ -874,7 +874,7 @@ this.recline.View = this.recline.View || {};
                     {{{filter_by_category}}} \
                     {{{filter_by_year}}} \
                 </div> \
-                <input type="hidden" class="editor-id" value="chroropleth-map-1" /> \
+                <input type="hidden" class="editor-id" value="choropleth-map-1" /> \
             </form> \
             <label id="unit-of-measure"></label> \
             <div id="color-scale" class="reference"></div> \
